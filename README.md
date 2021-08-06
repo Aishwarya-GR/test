@@ -1,3 +1,3 @@
 # test
 
-first repo o this account
+first repo on this account
